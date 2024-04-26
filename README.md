@@ -1,4 +1,5 @@
-<h3 align="center">Student and looking forward to develop myself as a programmer.</h3>
+<h3 align="center">Diego Francischette Blanco</h3>
+<h3 align="center">Student and looking forward to develop myself as a programmer</h3>
 
 - 🌱 I’m currently learning **React**
 

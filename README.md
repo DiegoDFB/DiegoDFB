@@ -5,7 +5,7 @@
 
 - 📫 Email: **difrancisblanco@gmail.com**
 
-- 📄 Experiences: [Studying Software Development in ETEC.](Studying Software Development in ETEC.)
+- 📄 Experiences: [Studying Software Development in ETEC.]
 
 <p align="left">
 </p>

@@ -2,11 +2,10 @@
 
 - 🌱 I’m currently learning **React**
 
-- 📫 Email **difrancisblanco@gmail.com**
+- 📫 Email: **difrancisblanco@gmail.com**
 
-- 📄 Experiences [Studying Software Development in ETEC.](Studying Software Development in ETEC.)
+- 📄 Experiences: [Studying Software Development in ETEC.](Studying Software Development in ETEC.)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 

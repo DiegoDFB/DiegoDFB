@@ -1,7 +1,7 @@
 <h3 align="center">Diego Francischette Blanco</h3>
 <h3 align="center">Student and looking forward to develop myself as a developer</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React** and **Python**
 
 - 📫 Email: **difrancisblanco@gmail.com**
 

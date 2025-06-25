@@ -5,7 +5,7 @@
 
 - 📫 Email: **difrancisblanco@gmail.com**
 
-- 📄 Experiences: [Studying Software Development in IFSP.]
+- 📄 Experiences: [Studying Software Development in Instituto Federal São Paulo.]
 
 <p align="left">
 </p>

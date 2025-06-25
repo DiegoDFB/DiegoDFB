@@ -15,7 +15,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diegodfb&show_icons=true&locale=en" alt="diegodfb" /></p>
 
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=UTILIZADOR&layout=compact&theme=dracula)
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoDFB&layout=compact&theme=dracula)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diegodfb&" alt="diegodfb" /></p>
 

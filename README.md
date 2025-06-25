@@ -17,5 +17,3 @@
 
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoDFB&layout=compact&theme=dracula)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diegodfb&" alt="diegodfb" /></p>
-

@@ -1,7 +1,7 @@
 <h3 align="center">Diego Francischette Blanco</h3>
 <h3 align="center">Student and looking forward to develop myself as a developer</h3>
 
-- 🌱 I’m currently learning **React** and **Python**
+- 🌱 I’m currently learning **.Net** and **C#**
 
 - 📫 Email: **difrancisblanco@gmail.com**
 
@@ -10,7 +10,7 @@
 <p align="left">
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,html,css,js,py,react,)](https://skillicons.dev)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diegodfb&show_icons=true&locale=en" alt="diegodfb" /></p>
 

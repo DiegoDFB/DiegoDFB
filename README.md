@@ -4,6 +4,8 @@
 
 - 📫 Email: **difrancisblanco@gmail.com**
 
+- Linkedin: **https://www.linkedin.com/in/diego-francischette-blanco-ba8584224**
+
 <h3 align="center">About Me</h3>
 <h3>PT-BR</h3>
 Estudando programação desde 2022, desenvolvi diversos projetos acadêmicos durante o curso técnico de Desenvolvimento de Sistemas na ETEC envolvendo front-end (React, HTML, CSS, JavaScript) e back-end (Java, C#, MySQL, MongoDB). Durante a produção de TCC, adquiri importantes habilidades de trabalho em equipe e cumprimento de metas.
